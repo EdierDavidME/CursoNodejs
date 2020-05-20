@@ -1,0 +1,22 @@
+{
+  "name": "repaso",
+  "version": "1.0.0",
+  "description": "curso",
+  "main": "src/Index.js",
+  "dependencies": {
+    "countries-list": "^2.5.4",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/Index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "nodejs",
+    "repaso"
+  ],
+  "author": "David",
+  "license": "ISC"
+}
